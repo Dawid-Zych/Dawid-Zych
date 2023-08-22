@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align='center'> 
 ![](https://github.com/Dawid-Zych/Dawid-Zych/blob/main/code.gif)
-## Skills and Experience
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,git,github,sequelize,visualstudio,bootstrap)](https://skillicons.dev)
+</div>
 
+## Skills and Experience
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,git,github,sequelize,visualstudio,bootstrap)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid-zych)](https://github.com/anuraghazra/github-readme-stats)
