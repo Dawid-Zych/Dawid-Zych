@@ -18,11 +18,12 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 
 ## Skills and Experience
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,git,github,visualstudio,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,github,visualstudio,bootstrap)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
 I'm currently expanding my skills in:
+
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,sequelize)](https://skillicons.dev)
 
 
