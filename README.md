@@ -19,21 +19,20 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 ## Skills and Experience
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,git,github,sequelize,visualstudio,bootstrap)](https://skillicons.dev)
-
 ## Check Out My Projects
 
 <div align="center">
-  <div style="display: flex; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <div>
-      <h2>Nex Electric</h2>
       <a href="https://nex-electric.netlify.app/">
-        <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site.jpg" alt="Nex Electric Preview" width="150">
+        <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site.jpg" alt="Nex Electric Preview" width="250">
+        <h2>Nex Electric</h2>
       </a>
     </div>
     <div>
-      <h2>Sewa Apartamenty</h2>
       <a href="https://sewa-apartamenty.netlify.app/">
-        <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site2.jpg" alt="Sewa Apartamenty Preview" width="150">
+        <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site2.jpg" alt="Sewa Apartamenty Preview" width="250">
+        <h2>Sewa Apartamenty</h2>
       </a>
     </div>
   </div>
