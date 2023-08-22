@@ -2,11 +2,14 @@
 
 I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 
-🌟 I'm on a mission to master the art of crafting captivating user interfaces. Armed with HTML, CSS, and JavaScript, I'm all about turning designs into seamless digital experiences.
+<h2 style="font-size: 24px;">🌟 Mission</h2>
+<p style="font-size: 18px;">I'm on a mission to master the art of crafting captivating user interfaces. Armed with HTML, CSS, and JavaScript, I'm all about turning designs into seamless digital experiences.</p>
 
-🌐 When I'm not in my code cocoon, I'm exploring coding communities, devouring tutorials, and diving into open-source projects.
+<h2 style="font-size: 24px;">🌐 Exploration</h2>
+<p style="font-size: 18px;">When I'm not in my code cocoon, I'm exploring coding communities, devouring tutorials, and diving into open-source projects.</p>
 
-🚀 Join me as I learn, code, and collaborate to shape the future of the web, one line of code at a time!
+<h2 style="font-size: 24px;">🚀 Join Me</h2>
+<p style="font-size: 18px;">Join me as I learn, code, and collaborate to shape the future of the web, one line of code at a time!</p>
 
 
 <div align='center'> 
