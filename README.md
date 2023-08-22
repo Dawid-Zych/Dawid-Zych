@@ -24,21 +24,22 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 ## Check Out My Projects
 
 <div align="center">
-  <div style="display: flex; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <div>
       <h2>Nex Electric</h2>
       <a href="https://nex-electric.netlify.app/">
-        <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site.jpg" alt="Portfolio Preview" width="300">
+        <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site.jpg" alt="Nex Electric Preview" width="250">
       </a>
     </div>
     <div>
       <h2>Sewa Apartamenty</h2>
       <a href="https://sewa-apartamenty.netlify.app/">
-        <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site2.jpg" alt="Portfolio Preview" width="300">
+        <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site2.jpg" alt="Sewa Apartamenty Preview" width="250">
       </a>
     </div>
   </div>
 </div>
+
 
 ## Connect with Me
 
