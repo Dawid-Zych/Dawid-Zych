@@ -22,6 +22,6 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 
 ## Connect with Me
 
-📫 [Email](mailto:dawid.zych23@gmail.com)
+📫 [Get in Touch](mailto:dawid.zych23@gmail.com)
 
 
