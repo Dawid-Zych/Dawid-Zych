@@ -16,7 +16,7 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 <img src='https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/code.gif' alt=''>
 </div>
 
-## Skills and Experience
+## 🛠️ Skills and Experience
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,github,visualstudio,bootstrap)](https://skillicons.dev)
 
@@ -27,7 +27,7 @@ I'm currently expanding my skills in:
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,sequelize)](https://skillicons.dev)
 
 
-## Check Out My Projects
+## 🌄 Check Out My Projects
 
 <table align="center">
   <tr>
@@ -46,7 +46,7 @@ I'm currently expanding my skills in:
   </tr>
 </table>
 
-## Connect with Me
+##  👀 Connect with Me
 
 📫 [Get in Touch](mailto:dawid.zych23@gmail.com)
 
