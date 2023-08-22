@@ -20,6 +20,13 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,git,github,sequelize,visualstudio,bootstrap)](https://skillicons.dev)
 
+## Check Out My Portfolio
+
+Take a look at my portfolio website:
+
+<iframe src="https://nex-electric.netlify.app/" width="600" height="400" frameborder="0"></iframe>
+
+
 ## Connect with Me
 
 📫 [Get in Touch](mailto:dawid.zych23@gmail.com)
