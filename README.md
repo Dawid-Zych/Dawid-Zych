@@ -23,8 +23,10 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 
 ## Check Out My Projects
 
+## Check Out My Projects
+
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
     <div>
       <h2>Nex Electric</h2>
       <a href="https://nex-electric.netlify.app/">
@@ -39,6 +41,7 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
     </div>
   </div>
 </div>
+
 
 
 ## Connect with Me
