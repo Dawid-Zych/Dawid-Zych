@@ -20,15 +20,12 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,git,github,sequelize,visualstudio,bootstrap)](https://skillicons.dev)
 
-## Check Out My Portfolio
-
-Take a look at my portfolio website:
-
-<iframe src="https://nex-electric.netlify.app/" width="600" height="400" frameborder="0"></iframe>
 
 ## Check Out My Portfolio
 
-[![Portfolio Preview](https://github.com/Dawid-Zych/Dawid-Zych/blob/main/site.jpg)](https://nex-electric.netlify.app/)
+<a href="https://nex-electric.netlify.app/">
+  <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/site.jpg" alt="Portfolio Preview" width="300">
+</a>
 
 
 
