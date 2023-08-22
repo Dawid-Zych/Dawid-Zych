@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills and Experience
-<hr>
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,,react,nodejs,git,github,sequelize,visualstudio,bootstrap)](https://skillicons.dev)
 
 
