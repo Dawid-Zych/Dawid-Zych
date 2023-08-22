@@ -21,12 +21,15 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,git,github,sequelize,visualstudio,bootstrap)](https://skillicons.dev)
 
 
-## Check Out My Portfolio
+## Check Out My Projects
 
 <a href="https://nex-electric.netlify.app/">
   <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/site.jpg" alt="Portfolio Preview" width="300">
 </a>
 
+<a href="https://sewa-apartamenty.netlify.app/">
+  <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/site.jpg" alt="Portfolio Preview" width="300">
+</a>
 
 
 ## Connect with Me
