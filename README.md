@@ -28,7 +28,7 @@ Take a look at my portfolio website:
 
 ## Check Out My Portfolio
 
-[![Portfolio Preview](https://example.com/preview-image.png)](https://nex-electric.netlify.app/)
+[![Portfolio Preview](https://nex-electric.netlify.app/)](https://nex-electric.netlify.app/)
 
 
 
