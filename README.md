@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align='center'> 
-![](https://github.com/Dawid-Zych/Dawid-Zych/blob/main/code.gif)
+<img src='https://github.com/Dawid-Zych/Dawid-Zych/blob/main/code.gif' alt=''>
 </div>
 
 ## Skills and Experience
