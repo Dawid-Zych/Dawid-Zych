@@ -1,19 +1,14 @@
-### Hi there 👋
+# Hey, I'm David! 👋
 
-<!--
-**Dawid-Zych/Dawid-Zych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid-zych)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
+I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 I'm on a mission to master the art of crafting captivating user interfaces. Armed with HTML, CSS, and JavaScript, I'm all about turning designs into seamless digital experiences.
+
+🌐 When I'm not in my code cocoon, I'm exploring coding communities, devouring tutorials, and diving into open-source projects.
+
+🚀 Join me as I learn, code, and collaborate to shape the future of the web, one line of code at a time!
+
+
 <div align='center'> 
 <img src='https://github.com/Dawid-Zych/Dawid-Zych/blob/main/code.gif' alt=''>
 </div>
@@ -23,3 +18,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,git,github,sequelize,visualstudio,bootstrap)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid-zych)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect with Me
+
+📫 [Email](mailto:dawid.zych23@gmail.com)
+
+
