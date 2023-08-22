@@ -25,16 +25,16 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 <table align="center">
   <tr>
     <td align="center">
+      <h3>Nex Electric</h3>      
       <a href="https://nex-electric.netlify.app/">
         <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site.jpg" alt="Nex Electric Preview" width="250">
       </a>
-      <h3>Nex Electric</h3>
     </td>
     <td align="center">
+      <h3>Sewa Apartamenty</h3>      
       <a href="https://sewa-apartamenty.netlify.app/">
         <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site2.jpg" alt="Sewa Apartamenty Preview" width="250">
       </a>
-      <h3>Sewa Apartamenty</h3>
     </td>
   </tr>
 </table>
