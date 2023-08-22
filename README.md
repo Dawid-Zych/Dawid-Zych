@@ -17,8 +17,6 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,git,github,sequelize,visualstudio,bootstrap)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid-zych)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Connect with Me
 
 📫 [Email](mailto:dawid.zych23@gmail.com)
