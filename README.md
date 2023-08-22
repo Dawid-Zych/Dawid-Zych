@@ -13,7 +13,7 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 
 
 <div align='center'> 
-<img src='https://github.com/Dawid-Zych/Dawid-Zych/blob/main/code.gif' alt=''>
+<img src='https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/code.gif' alt=''>
 </div>
 
 ## Skills and Experience
@@ -24,11 +24,11 @@ I'm a budding frontend developer enchanted by the possibilities of JavaScript.
 ## Check Out My Projects
 
 <a href="https://nex-electric.netlify.app/">
-  <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/site.jpg" alt="Portfolio Preview" width="300">
+  <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site.jpg" alt="Portfolio Preview" width="300" style="margin-right: 20px;">
 </a>
 
 <a href="https://sewa-apartamenty.netlify.app/">
-  <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/site.jpg" alt="Portfolio Preview" width="300">
+  <img src="https://github.com/Dawid-Zych/Dawid-Zych/blob/main/assets/site2.jpg" alt="Portfolio Preview" width="300">
 </a>
 
 
